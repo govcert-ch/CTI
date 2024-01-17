@@ -1,10 +1,4 @@
-# This file contains IPv4 addresses that participated in a DDoS attack on
-# 2024-01-17 against Swiss targets. The attack was allegedly conducted
-# by hacktivist group NoName057(16), using L7 attacks (HTTP/s GET flood).
-# GovCERT.ch has contacted the abuse desks of the relevant network owners (AS)
-# and asked them to take the appropriate actions to prevent further abuse of their service.
-#
-# ip_address,first_seen_utc,last_seen_utc,counter,as_number,as_name,geolocation
+ip_address,first_seen_utc,last_seen_utc,counter,as_number,as_name,geolocation
 45.133.172.51,2024-01-17 06:17:37,2024-01-17 10:44:28,20707,174,COGENT-174,GB
 149.102.229.204,2024-01-17 06:17:37,2024-01-17 10:44:16,4556,212238,CDNEXT,TR
 149.102.229.202,2024-01-17 06:17:37,2024-01-17 10:44:28,4569,212238,CDNEXT,TR
