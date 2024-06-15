@@ -1,3 +1,5 @@
+![](images/swiss-cybercow.png)
+
 # GovCERT.ch Cyber Threat Intelligence
 In this directory we post technical cyber threat Intelligence and provide it as is under TLP:CLEAR.
 
