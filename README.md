@@ -5,6 +5,7 @@ In this directory we post technical cyber threat Intelligence and provide it as 
 
 ##  📗 Table of Contents
 
+* [20240627_macOS_PoseidonStealer](20240627_macOS_PoseidonStealer): Contains information about a Poseidon Stealer malspam campaign targeting Swiss macOS users and the related MISP Event. 
 * [20240615_NoName057-attacking-ips.csv](20240615_NoName057-attacking-ips.csv): Contains IPv4 addresses that allegedly participated in DDoS attacks on 2024-06-14 and 2024-06-15 against Swiss targets. These attacks were conducted by hacktivist group NoName057(16), using L7 attacks (HTTP/s GET flood). The majority of the IP addresses belong to VPN service providers that got misused by NoName057(16) for launching DDoS attacks.
 * [20240615_NoName057-controller-ips.csv](20240615_NoName057-controller-ips.csv): Contains IPv4 addresses that allegedly were used in June 2024 by NoName057(16) to command and control their DDoS tool called "DDoSia".
 
