@@ -56,4 +56,4 @@ A copy of the Poseidon Stealer malware sample is available for download here:
 
 MISP event (JSON):
 
-* 20240627_macOS_PoseidonStealer.json
+* [20240627_macOS_PoseidonStealer.json](20240627_macOS_PoseidonStealer.json)
