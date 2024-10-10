@@ -1,0 +1,6 @@
+gorillacnc.su
+gorillabin.su
+gorillaservices.su
+gorillafirewall.su
+gorillaproxy.su
+gorilla-api.su
